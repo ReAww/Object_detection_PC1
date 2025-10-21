@@ -20,6 +20,7 @@ source venv/bin/activate  # (Windows: venv\Scripts\activate)
 pip install ultralytics opencv-python
 
 # STRUCTURE FOLDER
+```
 yolo-realtime-detector/
 │
 ├── venv/                     # virtual environment
@@ -33,7 +34,7 @@ yolo-realtime-detector/
 │
 ├── requirements.txt          # daftar dependensi
 └── README.md                 # panduan singkat proyek
-
+```
 # REQUIREMENTS 
 ultralytics
 opencv-python
