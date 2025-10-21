@@ -1,3 +1,13 @@
+| Komponen       | Teknologi                                      | Keterangan                                |
+| -------------- | ---------------------------------------------- | ----------------------------------------- |
+| Bahasa         | **Python 3.10+**                               | Bahasa yang didukung YOLO                 |
+| Model Deteksi  | **YOLOv8 (Ultralytics)**                       | Model terbaru, mudah dipakai              |
+| Library Kamera | **OpenCV**                                     | Untuk akses webcam dan tampilan video     |
+| Framework AI   | **PyTorch** (otomatis diinstal bersama YOLOv8) | Backend dari YOLO                         |
+| Virtual Env    | **venv**                                       | Agar dependensi bersih                    |
+| Visualisasi    | **cv2.imshow()**                               | Menampilkan hasil deteksi secara langsung |
+
+
 # Buat folder proyek
 mkdir yolo-realtime-detector
 cd yolo-realtime-detector
