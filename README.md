@@ -36,5 +36,5 @@ yolo-realtime-detector/
 └── README.md                 # panduan singkat proyek
 ```
 # REQUIREMENTS 
-ultralytics
-opencv-python
+- ultralytics
+- opencv-python
